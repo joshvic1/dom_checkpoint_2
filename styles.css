@@ -1,3 +1,4 @@
+/* Container styling */
 #container {
   display: flex;
   flex-direction: column;
@@ -7,11 +8,13 @@
   margin: auto;
   gap: 20px;
 }
+/* Color box styling */
 #color-box {
   height: 300px;
   width: 400px;
   background-color: red;
 }
+/* Color box button styling */
 #change-color-btn {
   padding: 15px;
   border-radius: 5px;
